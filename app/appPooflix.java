@@ -3,8 +3,6 @@ package Parcial.app;
 import Parcial.dominio.Material;
 import Parcial.dominio.Pooflix;
 import Parcial.dominio.TipoMaterial;
-import TourFrance.dominio.Corredor;
-import mecato.dominio.DispersadorMecato;
 
 import java.util.Arrays;
 import java.util.List;
